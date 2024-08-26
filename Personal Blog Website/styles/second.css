@@ -1,0 +1,14 @@
+.socialsharingsection {
+    display: grid;
+    color:aqua;
+}
+
+.authorinformationsection {
+    display: flex;
+    flex-direction: column;
+    color:brown;
+}
+
+a {
+    text-decoration-line: none;
+}
