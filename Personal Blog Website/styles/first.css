@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(70, 43, 226);
+}
+
+h2 {
+    color: rgb(42, 42, 61);
+}
+ul{
+    color:aquamarine;
+    list-style: none;
+}
+
+body {
+    color: darkgreen;
+    font-style: italic;
+    display: grid;
+    grid-area: auto;
+    
+}
+
+footer {
+    color: red;
+    font-size: x-large;
+}
+.firstcard{
+    color:brown;
+}
+.secondcard{
+    color:blueviolet;
+}
+.thirdcard{
+    color:firebrick
+}
