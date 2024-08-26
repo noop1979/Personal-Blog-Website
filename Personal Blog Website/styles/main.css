@@ -1,1 +1,16 @@
+@import "first.css";
+@import "second.css";
+@import "third.css";
 
+img{
+    width: 75%;
+}
+body{
+    background-color: aqua;
+}
+.authorinformatinsection{
+    color:brown;
+    background-color: bisque;
+    display: flex;
+
+}
