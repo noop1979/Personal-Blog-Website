@@ -1,0 +1,12 @@
+li {
+    padding: 2%;
+    display: grid;
+}
+
+ul {
+    display: flex;
+}
+body{
+    background-color: bisque;
+    
+}
